@@ -1,2 +1,1 @@
-# primo-test-page
-what even
+# Built with [primo](https://primo.so)
